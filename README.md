@@ -1,6 +1,6 @@
 # Rock_paper_scissors_Classification
 
-##Getting familiar with MultiClass classification.
+## Getting familiar with MultiClass classification.
 
 
 binary classification ==> class_mode='binary'
