@@ -5,7 +5,7 @@
 
 binary classification ==> class_mode='binary'
  
-multiclass =>> #class_mode='categorical' 
+multiclass =>> class_mode='categorical' 
 
 binary classification ==> activation='sigmoid'
 
